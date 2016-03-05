@@ -1,0 +1,42 @@
+XVI INTRODUCTION.
+
+conclusion (50, 5Ι); and that our author's system would imply the denial,
+not only of Euclid's definition of angles, but of the whole of his treatise
+on the subject. (Here, by the way, we may note how quietly the tri-
+section of an angle is taken for granted “secundum doctrinam prime
+Vitulonis³³, i. e. Vitellio, the famous Mediaeval mathematician and optician
+c‘que docet angulum rectum datum in tres partes dividere³‘, whereas all
+mathematicians are at present agreed that such trisection is impossible.
+As, however, Ι have not been able to get a sight of Vitellio’s works,
+though living in the very city in which he wrote them,1 I am not quite sure
+that what he teaches is anything more than a mere practical way of divid-
+ing an angle into three parts, without any claim to absolute exactitude.)
+
+Wyclif replies that, as regards Euclid⁷s definition of the angle —
+the meeting of two lines — this is merely a genetic, not an essential
+definition. Euclid indeed says what causes an angle; but that is not the
+angle itself. As to the rest, the answer is ready: Euc'lid’s theory con-
+cerns only sensible angles, not such as are found amongst points which
+touch; such, for instance, as form triangles which have sides only two
+points long, and of which the apex is an angle which cannot be
+bisected7 &c. —— All this cannot be imagined, and should, therefore, be
+denied from a merely geometrica] point of view (52, 53).
+
+We come now to what is perhaps the strongest mathematical ob-
+jection to Wyclif's system. According to him, points are placed as fol-
+lows, in a small square of say, 25 points only3 I have added the con-
+necting hyphens in the subjoined figure to show which points touch, and
+which do not touch. As is seen, the points on the diagonals
+do not touch directly‚ and there are no more points on
+the diagonal than on the side of a square. This, true
+for the given square, all but infinitesimally small, will also
+.ss · —. -’-· be true for all greater ones3 and thus the diagonal of
+any square (containing an equal number of points) will be equa] to its
+side, the greater to the less: which is absurd (53, 54). — Wyclif’s
+reply admits as an evident fact that the diagonal of a square is longer
+than its side. But when he comes to the statement that parallel lines,
+
+¹ l asked for a copy of Vitellio's works at the Jagellonian Library, Cracow,
+but was informctl that they had been lent to a gentleman who lived a good
+distance away.
+

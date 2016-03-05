@@ -1,0 +1,112 @@
+CAP· IX· LOGICA.
+
+dyametro equalium punctorum, nullus punctus mathe-
+maticus est eius centrum, simpliciter, sed punctus linee
+naturalis. Et per hoc solvuntur conclusiones 311 libri
+elementorum Euclidis. Nec capit ymaginacio duo puncta
+§esse inmediata in eadem superficie, ut linea3 ideo negat
+talia duo esse sensibiliter inmediata, ut patet ex A primi
+libri. Unde quererem a volente lineam dividere in duo
+equalia, utrum medius punctus manebit vel corrumpetur
+post divisionem. Si manebit: quare pocius cum una
+10 medietate quam reliqua? et si corrumpetur utrobique,
+sequitur punctum quemcunque esse accidentalem sue
+linee: quod est superius improbatum.
+Et idem est iudicium de divisione anguli. Nam nullus
+angulus mathematicus zm molem differre potest, cum
+15sit indivisibilis quo ad molem. Si enim angulus super-
+ficialis quicunque esset divisibilis quo ad molem, tunc
+angulus contingencie est angulus rectus, et angulus
+intrinsecus oppositus angulo contingencie essent equales
+simpliciter: quod contradicit in 35um Euclidis elemen-
+20 torum. Dividere ergo angulum mathematicum ad sensum
+Euclidis est dividere figuram ipso angulatam 2¹n lineas
+pertractas ad basim et conum dicte figure3 et illa vocatur
+divisio anguli in effectum quodammodo similem, ac si quis
+divideret potenciam vel virtutem individualem in <sua sub-
+25 stancia ad divisionem sui effectus. Causaliter enim dicit
+philosophus, 30 de Anima, ipsam habere partes virtuales.
+Ex istis et superius dictis satis patet quod si A, linea
+mathematica, cancellat Β, lineam mathematicam, equa-
+lem in medio puncto orthogonaliter, et si, manente
+30 utraque recta continue, sed B (inmota A) declinet suc-
+cessive, quousque fuerit directe supraposita B, mediis
+punctis continue se tangentibus, quod statim cum A
+incipit declinare ab angulo recto ad acutum, movendo
+2m quemlibet eius preter punctum contactus, incipit A
+35 simul tangere multa puncta mathematica in 33 quia
+aliter quemlibet punctum circumstarent infinita puncta,
+et minimus gradus superioritatis vel cuiuslibet denomina-
+cionis continue, sicut et quilibet angulus in sua sub-
+stancia foret in infinitum divisibilis; que omnia sunt
+40 inpossibilia; ideo et antecedens.
+Et ex istis patet responsio ad illam famosam racio-
+nem contra dictam opinionem de composicione continui
+
+23. suffe B.
+
+53
+
+As imagination
+cannot
+represent two
+points that
+touch each
+other, Euelid
+denies their
+existence for
+the senses.
+lf you bisect a
+line, what
+becomes of the
+middle point?
+
+No angle can
+differ from
+another in
+magnitude;
+
+therefore it is
+
+indivisible in
+
+that se11se;
+
+otherwise the
+angle of
+
+lanfency would
+Ἳ
+
+e a right
+angle.
+
+Thus if the
+lin‘e A bisects Β,
+equally long,
+at right angles,
+and then B is
+turned round
+till it coincides
+with A, the
+centrallpoints
+remaining
+the same
+as before,
+it is evident
+that A, from
+the moment it
+is no longer
+perpendicular
+will
+touch many
+of the points
+os B.
+
+A celebrated
+argument
+against our
+doctrine: the
+diagonal of a
+square and its
+

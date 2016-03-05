@@ -1,0 +1,43 @@
+XXII 1NTRODUCTJoN.
+
+one is continually brought into being; take the velocity common to each
+of these at each instant, and you get the speed of the whole (96).
+
+Here comes a curious passage, in which Wyclif is led to state the
+exact rapidity of the swiftest movement possible, viz. one point per
+instant. It seems to us that, in continuous movement, whether slow or
+quick, one point -— an infinitely small distance — is always passed over
+in the infinitely small interval osone instant, This is denied. In all move-
+ments which are slower than that of the Equator of the First Mobile,
+we have two, three, four . . . . instants during which the point is
+motionless, and then passes instantaneously on to the next place, which
+is infinitely near (97-99). In all these remarks, and elsewhere, as the
+reader will doubtless perceive, there is a dim perception of the non-
+equality of infinitesimal quantities; but the state of Mathematics was not
+then sufficiently advanced to foster the idea, and Wyclif himself, though
+far in advance of his time, was more of a metaphysician than of a
+mathematician. His conception, if carried into the field of pure Mathe-
+matics, might possibly have had good results; understood in the Realistic.
+sense, they came to nothing.
+
+A logical quibble about the possibility of instantaneous change
+(whether, between the instant of changing and that of having changed,
+there is any interval) brings our author to a short digression upon death,
+which takes place in two instants. In the first, the man dies; in the
+second, he is dead; for we cannot say, lte is dead at the instant when
+he dies, nor lle dies at the instant when he is dead. Other writers
+would say that the instant of death is the same in both cases3 but
+viewed from different standpoints: as the end of life, and the beginning
+of non—life. This, Wyclif says, is impossible (100).
+
+Astronomical objections. —- The assertion that the Equator alone
+moves one point per instant is beset with many difficulties. The First
+Mobile is a perfect sphere3 its movements therefore ought at all points,
+and not only at the Equator, to be uniform. But every point in the First
+Mobile does not touch every other: so the smaller circles, making a
+shorter journey in the same time, will not require to move so fast. The
+circle tangent to the Equator has but one point fewer than the Equator;
+performing its journey in the same time, it will remain immobile for one
+instant, to make up for the missing point: which of the points is missing
+we need not enquire. -- The Poles belong to the great circles,
+
